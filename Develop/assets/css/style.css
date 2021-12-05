@@ -13,7 +13,9 @@ header {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
-}
+} 
+
+/* Begin Header Section */
 
 header h1 {
     display: inline-block;
@@ -39,7 +41,9 @@ header nav ul {
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
-}
+} 
+
+/* End Header Section */
 
 a {
     color: #ffffff;
@@ -49,6 +53,21 @@ a {
 p {
     font-size: 16px;
 } 
+
+/* Begin Hero Section */ 
+
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+} 
+
+/* End Hero Section */ 
+
+/* Begin Benefits Section*/
 
 .benefits {
     margin-bottom: 32px; 
@@ -75,44 +94,7 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-}
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-footer h2 {
-    font-size: 20px;
-}
-
-.hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
+} 
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -153,6 +135,26 @@ footer h2 {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+} 
+
+/* End Benefits Section */
+
+/* Begin Content Section */
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
 }
 
 .search-engine-optimization {
@@ -207,4 +209,21 @@ footer h2 {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
+} 
+
+/* End Content Section */
+
+/* Begin Footer Section */
+
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
 }
+
+footer h2 {
+    font-size: 20px;
+}
+
+/* End Footer Section */
