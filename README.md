@@ -10,7 +10,7 @@ A website that offers companies a chance to leave the marketing to the professio
 ## Website
 https://dballard1234.github.io/urban-octo-telegram/develop/index.html  
 
-/assets/images/leadgeneration.png
+/../maing/assets/images/lead-generation.png
 
 ## Contribution
 Made with ❤️ by David Ballard
