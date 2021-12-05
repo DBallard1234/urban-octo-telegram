@@ -8,7 +8,7 @@ A website that offers companies a chance to leave the marketing to the professio
 * CSS
 
 ## Website
-https://github.com/DBallard1234/urban-octo-telegram.git
+https://dballard1234.github.io/urban-octo-telegram/
 
 ## Contribution
 Made with ❤️ by David Ballard
